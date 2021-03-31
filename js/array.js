@@ -1,16 +1,16 @@
 const places = [
     {   place: "Boston, MA",
-        descr: "asdf ",
+        descr: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         img: "img/boston.jpg"
     }
     , 
     {   place: "Denver, CO",
-        descr: " asdf",
+        descr: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         img: "img/denver.png"
     }
     ,
     {   place: "Salt Lake City, UT",
-        descr: " asf",
+        descr: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         img: "img/utah.jpg"
     }
 ]
