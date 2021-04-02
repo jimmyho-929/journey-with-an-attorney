@@ -50,7 +50,6 @@ table {
 .logo {
     width: 135px;
     margin: auto;
-    margin-top: 0.5rem;
 }
 
 h1 {
@@ -122,11 +121,13 @@ p {
 
 header {
     background-color: #F1F3EE;
+    padding-top: 5px;
 }
 
 body {
     background-color: #3D3A3A;
     color: #F1F3EE;
+    font-family: 'Jost', sans-serif;
 }
 
 
